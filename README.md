@@ -1,4 +1,4 @@
-#Curso construindo um CRUD Completo com Spring Boot REST API
+# Curso construindo um CRUD Completo com Spring Boot REST API
  
 # Sobre projeto :
    - Aplicativo **responsivo** funciona tanto no computador como em smartphone
@@ -38,9 +38,9 @@
    ![Image of app](https://dochub.com/rafaelamaraljr/0YkWQ4BwYW00yjPKpl7A8q/screen-two-jpg?dt=p68w3Wyvo_yEaD3x7PzV)
 
   ### Tela do modal de pesquisa :
-    ![Image of app](https://dochub.com/rafaelamaraljr/ALzmZB7wMbzzQX2RX8J560/screen-one-jpg?dt=Kzyxr6absUMZKFnrCCHm)
+   ![Image of app](https://dochub.com/rafaelamaraljr/ALzmZB7wMbzzQX2RX8J560/screen-one-jpg?dt=Kzyxr6absUMZKFnrCCHm)
 
-#Certificado de conclusão do curso :
+# Certificado de conclusão do curso :
   ![Image of certified](https://dochub.com/rafaelamaraljr/xgNyr6qwbgBBAYaRA5EbY2/anexoemail0-pdf?dt=haRy6zLt5B6dpQ1crf8N)
 
 # Contato :
