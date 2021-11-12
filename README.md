@@ -26,7 +26,6 @@
   - Bootstrap
   - HTML 
   - CSS
-  - Boostrap
 
 
 # Links :
